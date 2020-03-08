@@ -1,5 +1,5 @@
 function [ epsm ] = cal_DielectricConstant(Temperature, Frequence)
-% Calculate dielectric constant as a function of temperature (Celsius) and Radar frequency 
+% Calculate dielectric constant for liquid water as a function of temperature (Celsius) and Radar frequency 
 % By: Haoran Li , haoran.li@helsinki.fi, 20191104
 % Reference: Turner et al., JTECH, 2016
 
